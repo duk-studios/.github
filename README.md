@@ -1,8 +1,2 @@
 # Duk Studios
-We are a game development studio with a custom engine!
-
-Why a custom engine?
-Because it's fun.
-
-Why game development?
-Because people might pay for our games, so we can continue to develop our engine.
+This project is here to add some information on Duk Studio's organization profile on github.
